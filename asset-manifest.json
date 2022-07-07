@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reactgames/static/css/main.d85a143e.css",
-    "main.js": "/reactgames/static/js/main.c49dbbe6.js",
+    "main.css": "/reactgames/static/css/main.b14fea4e.css",
+    "main.js": "/reactgames/static/js/main.501b6acc.js",
     "static/js/787.8cc46f7f.chunk.js": "/reactgames/static/js/787.8cc46f7f.chunk.js",
     "static/media/lose.wav": "/reactgames/static/media/lose.0242c96fc833693dc721.wav",
     "static/media/win.wav": "/reactgames/static/media/win.8b89e537f689b1c42e2c.wav",
     "static/media/click.wav": "/reactgames/static/media/click.d0672e5c86e5e11618db.wav",
     "index.html": "/reactgames/index.html",
-    "main.d85a143e.css.map": "/reactgames/static/css/main.d85a143e.css.map",
-    "main.c49dbbe6.js.map": "/reactgames/static/js/main.c49dbbe6.js.map",
+    "main.b14fea4e.css.map": "/reactgames/static/css/main.b14fea4e.css.map",
+    "main.501b6acc.js.map": "/reactgames/static/js/main.501b6acc.js.map",
     "787.8cc46f7f.chunk.js.map": "/reactgames/static/js/787.8cc46f7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d85a143e.css",
-    "static/js/main.c49dbbe6.js"
+    "static/css/main.b14fea4e.css",
+    "static/js/main.501b6acc.js"
   ]
 }
