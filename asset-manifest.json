@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/reactgames/static/css/main.b14fea4e.css",
-    "main.js": "/reactgames/static/js/main.501b6acc.js",
+    "main.css": "/reactgames/static/css/main.a13c17f1.css",
+    "main.js": "/reactgames/static/js/main.e452569b.js",
     "static/js/787.8cc46f7f.chunk.js": "/reactgames/static/js/787.8cc46f7f.chunk.js",
     "static/media/lose.wav": "/reactgames/static/media/lose.0242c96fc833693dc721.wav",
     "static/media/win.wav": "/reactgames/static/media/win.8b89e537f689b1c42e2c.wav",
+    "static/media/yahtimg.png": "/reactgames/static/media/yahtimg.45c8c833ffb5a475f9e3.png",
     "static/media/click.wav": "/reactgames/static/media/click.d0672e5c86e5e11618db.wav",
+    "static/media/logo.png": "/reactgames/static/media/logo.4ede81fdefe35271c03e.png",
+    "static/media/loutimg.jpg": "/reactgames/static/media/loutimg.7753fb7af2adf3c19b5e.jpg",
+    "static/media/hmanimg.jpg": "/reactgames/static/media/hmanimg.8f0c3d1cf2595a181b46.jpg",
     "index.html": "/reactgames/index.html",
-    "main.b14fea4e.css.map": "/reactgames/static/css/main.b14fea4e.css.map",
-    "main.501b6acc.js.map": "/reactgames/static/js/main.501b6acc.js.map",
+    "main.a13c17f1.css.map": "/reactgames/static/css/main.a13c17f1.css.map",
+    "main.e452569b.js.map": "/reactgames/static/js/main.e452569b.js.map",
     "787.8cc46f7f.chunk.js.map": "/reactgames/static/js/787.8cc46f7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b14fea4e.css",
-    "static/js/main.501b6acc.js"
+    "static/css/main.a13c17f1.css",
+    "static/js/main.e452569b.js"
   ]
 }
